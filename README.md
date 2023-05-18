@@ -1,3 +1,3 @@
 # student-management-system
 
-Simple Django project that follows CRUD. Bootstrap styles
+Simple Django project with Bootstrap styles that follows CRUD.
